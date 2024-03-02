@@ -1,0 +1,5 @@
+SELECT distinct(A.NUM) AS ConsecutiveNums FROM LOGS A, LOGS B, LOGS C
+WHERE A.ID + 1 = B.ID
+AND B.ID + 1 = C.ID
+AND A.NUM = B.NUM
+AND B.NUM = C.NUM;
