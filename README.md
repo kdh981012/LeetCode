@@ -15,3 +15,5 @@ Oracle SQL
 180. Consecutive Numbers (Medium)
 
 185. Department Top Three Salaries (Hard)
+
+1193. Monthly Transactions I (Medium)
