@@ -4,7 +4,7 @@
 
 Numer         | Title
 ------------- | -----------------------------------
-1768          | $${/color{green}Merge \space Strings \space Alternately \space (Easy)}$$
+1768          | $${/color{green}Merge \space Strings \space Alternately \space}$$
 977           | Squares of a Sorted Array (Easy)
 151           | Reverse Words in a String (Medium)
 
