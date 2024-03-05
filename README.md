@@ -4,7 +4,7 @@
 
 Numer         | Title
 ------------- | -----------------------------------
-1768          | <span style="color:green">Merge Strings Alternately</span>
+1768          | Merge Strings Alternately (Easy)
 977           | Squares of a Sorted Array (Easy)
 151           | Reverse Words in a String (Medium)
 
