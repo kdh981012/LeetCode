@@ -2,11 +2,11 @@
 
 ## Java ##
 
-#  | Title
+#             | Title
 ------------- | -------------
-1768  | Merge Strings Alternately (Easy)
-977  | Squares of a Sorted Array (Easy)
-151  | Reverse Words in a String (Medium)
+1768          | Merge Strings Alternately (Easy)
+977           | Squares of a Sorted Array (Easy)
+151           | Reverse Words in a String (Medium)
 
 ## Oracle SQL ##
 
