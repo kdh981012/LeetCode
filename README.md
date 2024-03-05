@@ -2,7 +2,7 @@
 
 ## Java ##
 
-#             | Title
+Numer         | Title
 ------------- | -----------------------------------
 1768          | Merge Strings Alternately (Easy)
 977           | Squares of a Sorted Array (Easy)
