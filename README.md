@@ -22,3 +22,4 @@ Numer         | Title
 1934           | Confirmation Rate (Medium)
 1174           | Immediate Food Delivery II (Medium)
 550 | Game Play Analysis IV (Medium)
+601 | Human Traffic of Stadium (Hard)
