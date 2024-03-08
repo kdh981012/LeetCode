@@ -11,6 +11,7 @@ Numer         | Title
 27            | Remove Element (Easy)
 3005          | Count Elements With Maximum Frequency (Easy)
 169           | Majority Element (Easy)
+35            | Search Insert Position (Easy)
 
 ## Oracle SQL ##
 
