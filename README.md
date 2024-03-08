@@ -8,6 +8,8 @@ Numer         | Title
 977           | Squares of a Sorted Array (Easy)
 151           | Reverse Words in a String (Medium)
 283           | Move Zeros (Medium)
+27            | Remove Element (Easy)
+3005          | Count Elements With Maximum Frequency (Easy)
 
 ## Oracle SQL ##
 
