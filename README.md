@@ -29,6 +29,8 @@ Numer         | Title
 69            | Sqrt(x) (Easy)
 28            | Find the Index of the First Occurrence in a String (Easy)
 9             | Palindrome Number (Easy)
+1342          | Number of Steps to Reduce a Number to Zero (Easy)
+242           | Valid Anagram (Easy)
 
 
 ## Oracle SQL ##
