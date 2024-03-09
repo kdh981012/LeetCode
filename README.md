@@ -24,6 +24,11 @@ Numer         | Title
 344           | Reverse String (Easy)
 1528          | Shuffle String (Easy)
 1470          | Shuffle the Array (Easy)
+1480          | Running Sum of 1d Array (Easy)
+50            | Pow(x,n) (Medium)
+69            | Sqrt(x) (Easy)
+28            | Find the Index of the First Occurrence in a String (Easy)
+9             | Palindrome Number (Easy)
 
 
 ## Oracle SQL ##
