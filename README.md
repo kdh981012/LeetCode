@@ -12,6 +12,7 @@ Numer         | Title
 3005          | Count Elements With Maximum Frequency (Easy)
 169           | Majority Element (Easy)
 35            | Search Insert Position (Easy)
+2006          | Count Number of Pairs With Absolute Difference K (Easy)
 
 ## Oracle SQL ##
 
