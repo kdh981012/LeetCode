@@ -14,6 +14,17 @@ Numer         | Title
 35            | Search Insert Position (Easy)
 2006          | Count Number of Pairs With Absolute Difference K (Easy)
 1929          | Concatenation of Array (Easy)
+1431          | Kids With the Greatest Number of Candies (Easy)
+1108          | Defanging an IP Address (Easy)
+1512          | Number of Good Pairs (Easy)
+1365          | How Many Numbers Are Smaller Than the Current Number (Easy)
+1678          | Goal Parser Interpretation (Easy)
+268           | Missing Number (Easy)
+1662          | Check If Two String Arrays are Equivalent (Easy)
+344           | Reverse String (Easy)
+1528          | Shuffle String (Easy)
+1470          | Shuffle the Array (Easy)
+
 
 ## Oracle SQL ##
 
