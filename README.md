@@ -31,6 +31,7 @@ Numer         | Title
 9             | Palindrome Number (Easy)
 1342          | Number of Steps to Reduce a Number to Zero (Easy)
 242           | Valid Anagram (Easy)
+415           | Add Strings (Easy)
 
 
 ## Oracle SQL ##
