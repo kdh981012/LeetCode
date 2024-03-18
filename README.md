@@ -32,6 +32,7 @@ Numer         | Title
 1342          | Number of Steps to Reduce a Number to Zero (Easy)
 242           | Valid Anagram (Easy)
 415           | Add Strings (Easy)
+1920          | Build Array from Permutation (Easy)
 
 
 ## Oracle SQL ##
