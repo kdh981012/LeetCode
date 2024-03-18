@@ -33,6 +33,8 @@ Numer         | Title
 242           | Valid Anagram (Easy)
 415           | Add Strings (Easy)
 1920          | Build Array from Permutation (Easy)
+2469          | Convert the Temperature (Easy)
+2769          | Find the Maximum Achievable Number (Easy)
 
 
 ## Oracle SQL ##
