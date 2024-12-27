@@ -49,3 +49,4 @@ Numer         | Title
 1174          | Immediate Food Delivery II (Medium)
 550           | Game Play Analysis IV (Medium)
 601           | Human Traffic of Stadium (Hard)
+3374          | First Letter Capitalization II (Hard)
